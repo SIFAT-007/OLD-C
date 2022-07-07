@@ -12,7 +12,7 @@ pip2 install mechanize
 
 pkg install git
 
-git clone https://github.com/Cybersifat/OLD-C
+git clone https://github.com/SIFAT-007/OLD-C
 
 cd OLD-C
 
